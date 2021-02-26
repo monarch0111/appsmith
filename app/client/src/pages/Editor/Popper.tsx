@@ -114,7 +114,6 @@ export default (props: PopperProps) => {
             : { placement: props.placement }),
           onCreate: (popperData) => {
             const elementRef: any = popperData.instance.popper;
-            const targetNode: any = props.targetNode as any;
             if (props.isPropPane && propPanePreference?.isMoved) {
               elementRef.style.transform = "unset";
               elementRef.style.top = propPanePreference?.position.yPos + "px";
