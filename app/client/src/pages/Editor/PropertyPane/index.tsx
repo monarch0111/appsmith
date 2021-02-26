@@ -92,6 +92,7 @@ class PropertyPane extends Component<PropertyPaneProps, PropertyPaneState> {
       )[0];
       return (
         <Popper
+          isPropPane={true}
           isOpen={true}
           targetNode={el}
           zIndex={3}
