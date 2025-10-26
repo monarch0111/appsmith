@@ -63,7 +63,7 @@
     "husky": "^3.0.5",
     "immer": "^8.0.1",
     "instantsearch.css": "^7.4.2",
-    "instantsearch.js": "^4.4.1",
+    "instantsearch.js": "^4.80.0",
     "interweave": "^12.1.1",
     "interweave-autolink": "^4.0.1",
     "js-sha256": "^0.9.0",
