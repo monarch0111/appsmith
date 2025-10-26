@@ -92,7 +92,7 @@
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.1",
     "react-infinite-scroller": "^1.2.4",
-    "react-instantsearch-dom": "^6.4.0",
+    "react-instantsearch-dom": "^6.40.4",
     "react-json-view": "^1.19.1",
     "react-paginating": "^1.4.0",
     "react-player": "^2.3.1",
