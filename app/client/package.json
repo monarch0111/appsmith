@@ -21,7 +21,7 @@
     "@sentry/tracing": "^5.24.2",
     "@sentry/webpack-plugin": "^1.12.1",
     "@types/chance": "^1.0.7",
-    "@types/lodash": "^4.14.120",
+    "@types/lodash": "^4.17.20",
     "@types/moment-timezone": "^0.5.10",
     "@types/nanoid": "^2.0.0",
     "@types/node": "^10.12.18",
