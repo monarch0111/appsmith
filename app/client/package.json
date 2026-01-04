@@ -76,7 +76,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
     "nanoid": "^2.0.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^9.0.0",
     "normalizr": "^3.3.0",
     "popper.js": "^1.15.0",
     "prettier": "^1.18.2",
